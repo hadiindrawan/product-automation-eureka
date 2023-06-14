@@ -1,0 +1,8 @@
+{
+    "jobs": 1,
+    "package": "./package.json",
+    "reporter": ["spec", "mochawesome"],
+    "spec": ["tests/specs/**/*.test.js"],
+    "trace-warnings": true,
+    "ui": "bdd"
+}
