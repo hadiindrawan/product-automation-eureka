@@ -8,7 +8,7 @@
 Clone the project repository
 
 ```bash
-  git clone https://github.com/hadiindrawan/api-automation-surplus-id.git
+  git clone https://github.com/hadiindrawan/product-automation-eureka.git
 ```
 
 Go to the project directory
